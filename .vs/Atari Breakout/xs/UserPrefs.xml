@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C5563712-CA45-08E6-EFCD-86C0459A893A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PaddleMove.cs">
+    <Files>
+      <File FileName="Assets/brick.cs" Line="17" Column="6" IsPinned="True" />
+      <File FileName="Assets/Ball.cs" Line="7" Column="27" />
+      <File FileName="Assets/pad.cs" Line="23" Column="61" />
+      <File FileName="Assets/Bounce.cs" />
+      <File FileName="Assets/PaddleMove.cs" Line="13" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Atari Breakout" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PaddleMove.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="269d1b01-f1e2-46a7-874f-c6017e252edd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
